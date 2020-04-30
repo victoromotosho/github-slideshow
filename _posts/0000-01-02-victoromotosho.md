@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Jesus is the sweetest name I know
 Use the left arrow to go back!
